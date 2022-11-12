@@ -16,6 +16,7 @@ https://www.hackerrank.com/guilhermefneto
 ![ibm-ai-foundations-for-educators](https://user-images.githubusercontent.com/40431403/201485571-55128a56-afc3-4521-b4fc-620567a9a481.png)
 ![building-cloud-native-and-multicloud-applications](https://user-images.githubusercontent.com/40431403/201485675-66b65732-5252-4b82-9ead-3d68ff4ec40f.png)
 ![data-science-tools](https://user-images.githubusercontent.com/40431403/201485718-76e85aed-b1fa-416f-b153-3c3cb7118c65.png)
+![cybersecurity-it-fundamentals-specialization](https://user-images.githubusercontent.com/40431403/201485897-82f2d7a0-8104-4b46-8258-712b99b28961.png)
 
 
 
@@ -55,3 +56,7 @@ https://www.hackerrank.com/guilhermefneto
 ![hybrid-cloud-conference-microservices-architect](https://user-images.githubusercontent.com/40431403/201485758-1c84e7f8-00aa-4900-b6c1-adb8384df3b8.png)
 ![hybrid-cloud-conference-serverless-innovator](https://user-images.githubusercontent.com/40431403/201485787-b6c0438f-2e8c-4bca-bda8-227e4d01c4a8.png)
 ![hybrid-cloud-conference-pipeline-builder](https://user-images.githubusercontent.com/40431403/201485832-398f0953-4f17-45e8-962e-626d4a263979.png)
+![hybrid-cloud-conference-service-mesh-networker](https://user-images.githubusercontent.com/40431403/201485924-e3385e93-b845-424c-94b1-0e5d58f8f78a.png)
+![cloud-native-security-conference-devsecops](https://user-images.githubusercontent.com/40431403/201485967-2105618f-f775-495e-aaac-0e9a118035aa.png)
+![hybrid-cloud-conference-backend-services-for-containers](https://user-images.githubusercontent.com/40431403/201486015-08b177f3-26df-4964-8e9a-aba7c1db7cb8.png)
+<img width="88" alt="opswat-introduction-to-critical-infrastructure-protection-icip" src="https://user-images.githubusercontent.com/40431403/201486073-32841223-20af-4fac-96c9-0c6fe7e83871.png">
