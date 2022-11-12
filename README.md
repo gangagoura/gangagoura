@@ -23,9 +23,8 @@ https://www.hackerrank.com/guilhermefneto
 ![introduction-to-cybersecurity-tools-cyber-attacks](https://user-images.githubusercontent.com/40431403/201486466-d96bffdc-55a0-472e-91d9-49a025c71aeb.png)
 ![cybersecurity-roles-processes-operating-system-security](https://user-images.githubusercontent.com/40431403/201486507-41b7c037-90af-4a5b-8d96-fc7d2e11157c.png)
 ![cybersecurity-compliance-framework-system-administration](https://user-images.githubusercontent.com/40431403/201486555-aae26838-e416-4f08-96cf-ad2236054668.png)
-
-
-
+![penetration-testing-incident-response-and-forensics](https://user-images.githubusercontent.com/40431403/201486647-a9dba42f-0c8c-43cd-a769-138aba21e8fb.png)
+![cyber-threat-intelligence](https://user-images.githubusercontent.com/40431403/201486669-00129409-26da-406b-b6b4-d3aa9596b9e3.png)
 ![advanced-kubernetes-operators (3)](https://user-images.githubusercontent.com/40431403/201484174-f36d7ec9-73fc-44ba-b6ff-31ebc0817a11.png)
 ![big-data-foundations-level-1](https://user-images.githubusercontent.com/40431403/201484220-d8d78a70-dcd1-4b19-905a-d57dae7b7963.png)
 ![ibm-cloud-kubernetes-service](https://user-images.githubusercontent.com/40431403/201484253-ab52c85d-e545-4eb5-8c8e-0b03a525d5f1.png)
@@ -44,7 +43,7 @@ https://www.hackerrank.com/guilhermefneto
 ![containers-kubernetes-essentials](https://user-images.githubusercontent.com/40431403/201484748-98e2b39b-ea9e-42d8-a08b-982123759588.png)
 ![spark-level-1](https://user-images.githubusercontent.com/40431403/201484778-7ac2651c-c12c-4372-b6f8-86ba71b640ad.png)
 ![big-data-foundations-level-2](https://user-images.githubusercontent.com/40431403/201484811-9007e241-bdde-4eef-a2c8-0e3017f0a01b.png)
-
+![introduction-to-machine-learning-with-sound (1)](https://user-images.githubusercontent.com/40431403/201486763-bddd03ed-df57-40b7-b5f6-d9a95eff27b3.png)
 ![game-playing-ai-with-swift-for-tensorflow](https://user-images.githubusercontent.com/40431403/201484866-5ed94afe-bffa-4bf4-8f71-f9c222eea30b.png)
 ![hybrid-cloud-conference-app-security-and-threat-modeler](https://user-images.githubusercontent.com/40431403/201484913-cfa09068-4a4f-431c-ae9d-6e8578a3c178.png)
 ![data-science-with-scala](https://user-images.githubusercontent.com/40431403/201484961-509ffd96-a0d7-4cea-a2d3-3c717fc72348.png)
