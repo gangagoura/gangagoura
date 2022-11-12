@@ -19,6 +19,10 @@ https://www.hackerrank.com/guilhermefneto
 ![cybersecurity-it-fundamentals-specialization](https://user-images.githubusercontent.com/40431403/201485897-82f2d7a0-8104-4b46-8258-712b99b28961.png)
 ![lfc110-fundamentals-of-professional-open-source-management](https://user-images.githubusercontent.com/40431403/201486160-42a5152c-4fbb-4d7b-b887-9bfc2f5dd709.png)
 ![open-source-software-development-linux-and-git-specialization](https://user-images.githubusercontent.com/40431403/201486210-890829f6-6e3c-491c-843d-867a1768e165.png)
+![network-security-database-vulnerabilities](https://user-images.githubusercontent.com/40431403/201486434-2eca3edd-fa8a-41d1-a7a4-3855311ca725.png)
+![introduction-to-cybersecurity-tools-cyber-attacks](https://user-images.githubusercontent.com/40431403/201486466-d96bffdc-55a0-472e-91d9-49a025c71aeb.png)
+![cybersecurity-roles-processes-operating-system-security](https://user-images.githubusercontent.com/40431403/201486507-41b7c037-90af-4a5b-8d96-fc7d2e11157c.png)
+![cybersecurity-compliance-framework-system-administration](https://user-images.githubusercontent.com/40431403/201486555-aae26838-e416-4f08-96cf-ad2236054668.png)
 
 
 
@@ -40,7 +44,7 @@ https://www.hackerrank.com/guilhermefneto
 ![containers-kubernetes-essentials](https://user-images.githubusercontent.com/40431403/201484748-98e2b39b-ea9e-42d8-a08b-982123759588.png)
 ![spark-level-1](https://user-images.githubusercontent.com/40431403/201484778-7ac2651c-c12c-4372-b6f8-86ba71b640ad.png)
 ![big-data-foundations-level-2](https://user-images.githubusercontent.com/40431403/201484811-9007e241-bdde-4eef-a2c8-0e3017f0a01b.png)
-![introduction-to-machine-learning-with-sound](https://user-images.githubusercontent.com/40431403/201484842-8494c02e-668d-4969-87bb-02530f499d4d.png)
+ion-to-machine-learning-with-sound](https://user-images.githubusercontent.com/40431403/201484842-8494c02e-668d-4969-87bb-02530f499d4d.png)
 ![game-playing-ai-with-swift-for-tensorflow](https://user-images.githubusercontent.com/40431403/201484866-5ed94afe-bffa-4bf4-8f71-f9c222eea30b.png)
 ![hybrid-cloud-conference-app-security-and-threat-modeler](https://user-images.githubusercontent.com/40431403/201484913-cfa09068-4a4f-431c-ae9d-6e8578a3c178.png)
 ![data-science-with-scala](https://user-images.githubusercontent.com/40431403/201484961-509ffd96-a0d7-4cea-a2d3-3c717fc72348.png)
@@ -62,4 +66,8 @@ https://www.hackerrank.com/guilhermefneto
 ![cloud-native-security-conference-devsecops](https://user-images.githubusercontent.com/40431403/201485967-2105618f-f775-495e-aaac-0e9a118035aa.png)
 ![hybrid-cloud-conference-backend-services-for-containers](https://user-images.githubusercontent.com/40431403/201486015-08b177f3-26df-4964-8e9a-aba7c1db7cb8.png)
 <img width="154" alt="opswat-introduction-to-critical-infrastructure-protection-icip (1)" src="https://user-images.githubusercontent.com/40431403/201486116-82f3288d-d994-48e9-a9a7-25921c689774.png">
+![ocean-science-explorer](https://user-images.githubusercontent.com/40431403/201486265-70e9ac06-dc68-4d1d-9afb-8fd9295688f0.png)
+![data-science-for-business-level-1](https://user-images.githubusercontent.com/40431403/201486311-fdd1b827-0f92-48ee-a44b-53638ee76830.png)
+![node-red-basics-to-bots](https://user-images.githubusercontent.com/40431403/201486361-7d2090d9-f15c-4dd9-abc2-86474992bf81.png)
+![ibm-cloud-essentials 2](https://user-images.githubusercontent.com/40431403/201486397-7949001f-7f7d-4d61-bf84-ad3fd554ade6.png)
 
