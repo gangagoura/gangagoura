@@ -29,7 +29,6 @@ https://www.hackerrank.com/guilhermefneto
 ![big-data-foundations-level-1](https://user-images.githubusercontent.com/40431403/201484220-d8d78a70-dcd1-4b19-905a-d57dae7b7963.png)
 ![ibm-cloud-kubernetes-service](https://user-images.githubusercontent.com/40431403/201484253-ab52c85d-e545-4eb5-8c8e-0b03a525d5f1.png)
 ![hadoop-foundations-level-1](https://user-images.githubusercontent.com/40431403/201484298-a8b9d284-b08e-4efe-af08-874b1df2adf5.png)
-![machine-learning-with-python-level-1](https://user-images.githubusercontent.com/40431403/201484341-137ff33d-333b-40d1-b8d7-65d80dbede0e.png)
 ![python-for-data-science](https://user-images.githubusercontent.com/40431403/201484375-b3995e98-21c4-4cc0-bcb6-e8036fc138bb.png)
 ![ibm-blockchain-essentials-v2](https://user-images.githubusercontent.com/40431403/201484412-183e56d8-d56b-453e-976f-55d1698dfa81.png)
 ![data-visualization-using-python](https://user-images.githubusercontent.com/40431403/201484438-b3a0d6c0-eb3f-4b0c-a8c2-0831c8938a6d.png)
