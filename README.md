@@ -59,4 +59,5 @@ https://www.hackerrank.com/guilhermefneto
 ![hybrid-cloud-conference-service-mesh-networker](https://user-images.githubusercontent.com/40431403/201485924-e3385e93-b845-424c-94b1-0e5d58f8f78a.png)
 ![cloud-native-security-conference-devsecops](https://user-images.githubusercontent.com/40431403/201485967-2105618f-f775-495e-aaac-0e9a118035aa.png)
 ![hybrid-cloud-conference-backend-services-for-containers](https://user-images.githubusercontent.com/40431403/201486015-08b177f3-26df-4964-8e9a-aba7c1db7cb8.png)
-<img width="88" alt="opswat-introduction-to-critical-infrastructure-protection-icip" src="https://user-images.githubusercontent.com/40431403/201486073-32841223-20af-4fac-96c9-0c6fe7e83871.png">
+<img width="154" alt="opswat-introduction-to-critical-infrastructure-protection-icip (1)" src="https://user-images.githubusercontent.com/40431403/201486116-82f3288d-d994-48e9-a9a7-25921c689774.png">
+
