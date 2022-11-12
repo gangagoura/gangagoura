@@ -14,6 +14,8 @@ https://www.hackerrank.com/guilhermefneto
 ![deep-learning-using-tensorflow](https://user-images.githubusercontent.com/40431403/201485239-661a6b59-a654-4313-ac19-2ecd1ef4f715.png)
 ![machine-learning-with-r-level-1](https://user-images.githubusercontent.com/40431403/201485484-560e432e-8dc6-4cc0-9be7-ad23e2b416af.png)
 ![ibm-ai-foundations-for-educators](https://user-images.githubusercontent.com/40431403/201485571-55128a56-afc3-4521-b4fc-620567a9a481.png)
+![building-cloud-native-and-multicloud-applications](https://user-images.githubusercontent.com/40431403/201485675-66b65732-5252-4b82-9ead-3d68ff4ec40f.png)
+![data-science-tools](https://user-images.githubusercontent.com/40431403/201485718-76e85aed-b1fa-416f-b153-3c3cb7118c65.png)
 
 
 
@@ -50,3 +52,6 @@ https://www.hackerrank.com/guilhermefneto
 ![explorations-into-mindfulness](https://user-images.githubusercontent.com/40431403/201485401-827effb6-bde2-4f97-8d04-ad8276310708.png)
 ![data-visualization-with-r](https://user-images.githubusercontent.com/40431403/201485527-95392a04-e750-4f0d-af0d-7f813bf6a2fe.png)
 ![build-your-own-chatbot-level-1](https://user-images.githubusercontent.com/40431403/201485601-ee6d86a1-844f-4dae-acc9-1678b71deb3c.png)
+![hybrid-cloud-conference-microservices-architect](https://user-images.githubusercontent.com/40431403/201485758-1c84e7f8-00aa-4900-b6c1-adb8384df3b8.png)
+![hybrid-cloud-conference-serverless-innovator](https://user-images.githubusercontent.com/40431403/201485787-b6c0438f-2e8c-4bca-bda8-227e4d01c4a8.png)
+![hybrid-cloud-conference-pipeline-builder](https://user-images.githubusercontent.com/40431403/201485832-398f0953-4f17-45e8-962e-626d4a263979.png)
