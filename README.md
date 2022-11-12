@@ -44,7 +44,7 @@ https://www.hackerrank.com/guilhermefneto
 ![containers-kubernetes-essentials](https://user-images.githubusercontent.com/40431403/201484748-98e2b39b-ea9e-42d8-a08b-982123759588.png)
 ![spark-level-1](https://user-images.githubusercontent.com/40431403/201484778-7ac2651c-c12c-4372-b6f8-86ba71b640ad.png)
 ![big-data-foundations-level-2](https://user-images.githubusercontent.com/40431403/201484811-9007e241-bdde-4eef-a2c8-0e3017f0a01b.png)
-ion-to-machine-learning-with-sound](https://user-images.githubusercontent.com/40431403/201484842-8494c02e-668d-4969-87bb-02530f499d4d.png)
+
 ![game-playing-ai-with-swift-for-tensorflow](https://user-images.githubusercontent.com/40431403/201484866-5ed94afe-bffa-4bf4-8f71-f9c222eea30b.png)
 ![hybrid-cloud-conference-app-security-and-threat-modeler](https://user-images.githubusercontent.com/40431403/201484913-cfa09068-4a4f-431c-ae9d-6e8578a3c178.png)
 ![data-science-with-scala](https://user-images.githubusercontent.com/40431403/201484961-509ffd96-a0d7-4cea-a2d3-3c717fc72348.png)
