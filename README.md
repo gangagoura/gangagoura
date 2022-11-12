@@ -8,6 +8,12 @@ https://www.hackerrank.com/guilhermefneto
 
 
 [![@guilhermeneto's Holopin board](https://holopin.me/guilhermeneto)](https://holopin.io/@guilhermeneto)
+![accelerated-deep-learning-with-gpu](https://user-images.githubusercontent.com/40431403/201485117-8a937203-c6ca-4019-8c12-8af62154419e.png)
+![data-science-methodologies](https://user-images.githubusercontent.com/40431403/201485153-89712976-de83-45fd-8242-1cfa147f9771.png)
+![dataops-methodology](https://user-images.githubusercontent.com/40431403/201485202-ad8dd1e1-0631-4470-80ef-d958317166b4.png)
+![deep-learning-using-tensorflow](https://user-images.githubusercontent.com/40431403/201485239-661a6b59-a654-4313-ac19-2ecd1ef4f715.png)
+![machine-learning-with-r-level-1](https://user-images.githubusercontent.com/40431403/201485484-560e432e-8dc6-4cc0-9be7-ad23e2b416af.png)
+![ibm-ai-foundations-for-educators](https://user-images.githubusercontent.com/40431403/201485571-55128a56-afc3-4521-b4fc-620567a9a481.png)
 
 
 
@@ -31,3 +37,16 @@ https://www.hackerrank.com/guilhermefneto
 ![big-data-foundations-level-2](https://user-images.githubusercontent.com/40431403/201484811-9007e241-bdde-4eef-a2c8-0e3017f0a01b.png)
 ![introduction-to-machine-learning-with-sound](https://user-images.githubusercontent.com/40431403/201484842-8494c02e-668d-4969-87bb-02530f499d4d.png)
 ![game-playing-ai-with-swift-for-tensorflow](https://user-images.githubusercontent.com/40431403/201484866-5ed94afe-bffa-4bf4-8f71-f9c222eea30b.png)
+![hybrid-cloud-conference-app-security-and-threat-modeler](https://user-images.githubusercontent.com/40431403/201484913-cfa09068-4a4f-431c-ae9d-6e8578a3c178.png)
+![data-science-with-scala](https://user-images.githubusercontent.com/40431403/201484961-509ffd96-a0d7-4cea-a2d3-3c717fc72348.png)
+![simplifying-data-pipelines-with-apache-kafka](https://user-images.githubusercontent.com/40431403/201484979-edd5d6c1-f775-4ea8-a1b2-1507aa90387f.png)
+![hadoop-programming-level-2](https://user-images.githubusercontent.com/40431403/201485003-be3ddf93-d062-410e-ad3d-3d8f7a7ea52b.png)
+![hadoop-programming-level-1](https://user-images.githubusercontent.com/40431403/201485036-7bfaad79-b927-4528-a753-3a0cc466c898.png)
+![machine-learning-with-python-level-1 (1)](https://user-images.githubusercontent.com/40431403/201485056-a7c3eb9b-cf1d-41eb-8319-51d01c306754.png)
+![cloud-native-security-conference-data-security](https://user-images.githubusercontent.com/40431403/201485273-06d7763e-1436-48b7-9e9e-278900aa24f0.png)
+![cloud-native-security-conference-app-security](https://user-images.githubusercontent.com/40431403/201485304-11b2debf-6e64-47a0-933c-f02cd31a09f9.png)
+![cybersecurity-fundamentals](https://user-images.githubusercontent.com/40431403/201485345-f98785fd-d4df-4283-88c5-76328571c373.png)
+![cloud-pak-for-integration-essentials](https://user-images.githubusercontent.com/40431403/201485376-b3cef71f-d1d5-463a-a609-70ce727d7891.png)
+![explorations-into-mindfulness](https://user-images.githubusercontent.com/40431403/201485401-827effb6-bde2-4f97-8d04-ad8276310708.png)
+![data-visualization-with-r](https://user-images.githubusercontent.com/40431403/201485527-95392a04-e750-4f0d-af0d-7f813bf6a2fe.png)
+![build-your-own-chatbot-level-1](https://user-images.githubusercontent.com/40431403/201485601-ee6d86a1-844f-4dae-acc9-1678b71deb3c.png)
