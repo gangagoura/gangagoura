@@ -68,4 +68,5 @@ https://www.hackerrank.com/guilhermefneto
 ![data-science-for-business-level-1](https://user-images.githubusercontent.com/40431403/201486311-fdd1b827-0f92-48ee-a44b-53638ee76830.png)
 ![node-red-basics-to-bots](https://user-images.githubusercontent.com/40431403/201486361-7d2090d9-f15c-4dd9-abc2-86474992bf81.png)
 ![ibm-cloud-essentials 2](https://user-images.githubusercontent.com/40431403/201486397-7949001f-7f7d-4d61-bf84-ad3fd554ade6.png)
+![databases-and-sql-for-data-science](https://user-images.githubusercontent.com/40431403/203589506-1f289a92-353e-4350-9150-9e1126551a7c.png)
 
