@@ -17,6 +17,7 @@ https://www.hackerrank.com/guilhermefneto
 ![building-cloud-native-and-multicloud-applications](https://user-images.githubusercontent.com/40431403/201485675-66b65732-5252-4b82-9ead-3d68ff4ec40f.png)
 ![data-science-tools](https://user-images.githubusercontent.com/40431403/201485718-76e85aed-b1fa-416f-b153-3c3cb7118c65.png)
 ![cybersecurity-it-fundamentals-specialization](https://user-images.githubusercontent.com/40431403/201485897-82f2d7a0-8104-4b46-8258-712b99b28961.png)
+![python-for-data-science-and-ai](https://user-images.githubusercontent.com/40431403/203873092-96f21890-3ad6-47b4-9b60-118d39c011a9.png)
 ![lfc110-fundamentals-of-professional-open-source-management](https://user-images.githubusercontent.com/40431403/201486160-42a5152c-4fbb-4d7b-b887-9bfc2f5dd709.png)
 ![open-source-software-development-linux-and-git-specialization](https://user-images.githubusercontent.com/40431403/201486210-890829f6-6e3c-491c-843d-867a1768e165.png)
 ![network-security-database-vulnerabilities](https://user-images.githubusercontent.com/40431403/201486434-2eca3edd-fa8a-41d1-a7a4-3855311ca725.png)
