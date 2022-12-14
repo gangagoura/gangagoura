@@ -6,6 +6,8 @@ https://www.linkedin.com/in/guilherme-fernandes-neto-90b852147/
 
 https://www.hackerrank.com/guilhermefneto
 
+https://www.cloudskillsboost.google/public_profiles/534d6f40-709f-45bb-afe7-98298c6b14f7
+
 
 [![@guilhermeneto's Holopin board](https://holopin.me/guilhermeneto)](https://holopin.io/@guilhermeneto)
 ![accelerated-deep-learning-with-gpu](https://user-images.githubusercontent.com/40431403/201485117-8a937203-c6ca-4019-8c12-8af62154419e.png)
