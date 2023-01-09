@@ -71,4 +71,5 @@ https://www.cloudskillsboost.google/public_profiles/534d6f40-709f-45bb-afe7-9829
 ![node-red-basics-to-bots](https://user-images.githubusercontent.com/40431403/201486361-7d2090d9-f15c-4dd9-abc2-86474992bf81.png)
 ![ibm-cloud-essentials 2](https://user-images.githubusercontent.com/40431403/201486397-7949001f-7f7d-4d61-bf84-ad3fd554ade6.png)
 ![databases-and-sql-for-data-science](https://user-images.githubusercontent.com/40431403/203589506-1f289a92-353e-4350-9150-9e1126551a7c.png)
+![spark-overview-for-scala-analytics](https://user-images.githubusercontent.com/40431403/211335995-7730dc2d-9b61-43b4-8fb6-fd50675a2cfe.png)
 
