@@ -8,6 +8,7 @@ https://www.linkedin.com/in/guilherme-fernandes-neto-90b852147/
 https://www.hackerrank.com/guilhermefneto
 
 
+
 https://www.cloudskillsboost.google/public_profiles/534d6f40-709f-45bb-afe7-98298c6b14f7
 
 
