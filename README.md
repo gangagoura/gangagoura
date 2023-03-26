@@ -82,3 +82,4 @@ https://www.cloudskillsboost.google/public_profiles/534d6f40-709f-45bb-afe7-9829
 ![principles-of-reactive-architecture](https://user-images.githubusercontent.com/40431403/216850829-f39b018c-b89b-4259-8854-06330be9934d.png)
 ![reactive-architecture-building-scalable-systems-level-2](https://user-images.githubusercontent.com/40431403/217285936-323727ee-9696-459c-8143-241ecbcb49f2.png)
 ![building-scalable-systems](https://user-images.githubusercontent.com/40431403/217548328-29173fa1-f774-49e4-b6ce-74c40715b4d5.png)
+![ibm-z-xplore-concepts](https://user-images.githubusercontent.com/40431403/227798522-8c9ab19e-21b3-4be1-b1ff-a82ffe010c64.png)
