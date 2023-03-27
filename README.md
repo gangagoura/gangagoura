@@ -13,6 +13,7 @@ https://www.cloudskillsboost.google/public_profiles/534d6f40-709f-45bb-afe7-9829
 
 
 
+
 [![@guilhermeneto's Holopin board](https://holopin.me/guilhermeneto)](https://holopin.io/@guilhermeneto)
 ![accelerated-deep-learning-with-gpu](https://user-images.githubusercontent.com/40431403/201485117-8a937203-c6ca-4019-8c12-8af62154419e.png)
 ![data-science-methodologies](https://user-images.githubusercontent.com/40431403/201485153-89712976-de83-45fd-8242-1cfa147f9771.png)
