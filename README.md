@@ -16,6 +16,8 @@ https://www.cloudskillsboost.google/public_profiles/534d6f40-709f-45bb-afe7-9829
 
 
 [![@guilhermeneto's Holopin board](https://holopin.me/guilhermeneto)](https://holopin.io/@guilhermeneto)
+
+![ibm-z-xplore-advanced](https://user-images.githubusercontent.com/40431403/230687704-de6b0ece-002d-436a-81aa-71278f46d14e.png)
 ![accelerated-deep-learning-with-gpu](https://user-images.githubusercontent.com/40431403/201485117-8a937203-c6ca-4019-8c12-8af62154419e.png)
 ![data-science-methodologies](https://user-images.githubusercontent.com/40431403/201485153-89712976-de83-45fd-8242-1cfa147f9771.png)
 ![dataops-methodology](https://user-images.githubusercontent.com/40431403/201485202-ad8dd1e1-0631-4470-80ef-d958317166b4.png)
