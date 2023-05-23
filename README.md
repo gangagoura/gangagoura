@@ -31,6 +31,7 @@ https://www.cloudskillsboost.google/public_profiles/534d6f40-709f-45bb-afe7-9829
 ![data-science-methodologies](https://user-images.githubusercontent.com/40431403/201485153-89712976-de83-45fd-8242-1cfa147f9771.png)
 ![dataops-methodology](https://user-images.githubusercontent.com/40431403/201485202-ad8dd1e1-0631-4470-80ef-d958317166b4.png)
 ![deep-learning-using-tensorflow](https://user-images.githubusercontent.com/40431403/201485239-661a6b59-a654-4313-ac19-2ecd1ef4f715.png)
+![networking-on-z-os-foundations](https://github.com/gangagoura/gangagoura/assets/40431403/20a8a5f3-5648-4a99-8446-69723d0540cd)
 ![machine-learning-with-r-level-1](https://user-images.githubusercontent.com/40431403/201485484-560e432e-8dc6-4cc0-9be7-ad23e2b416af.png)
 ![ibm-ai-foundations-for-educators](https://user-images.githubusercontent.com/40431403/201485571-55128a56-afc3-4521-b4fc-620567a9a481.png)
 ![building-cloud-native-and-multicloud-applications](https://user-images.githubusercontent.com/40431403/201485675-66b65732-5252-4b82-9ead-3d68ff4ec40f.png)
