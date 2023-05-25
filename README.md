@@ -35,6 +35,7 @@ https://www.cloudskillsboost.google/public_profiles/534d6f40-709f-45bb-afe7-9829
 ![networking-on-z-os-foundations](https://github.com/gangagoura/gangagoura/assets/40431403/20a8a5f3-5648-4a99-8446-69723d0540cd)
 ![machine-learning-with-r-level-1](https://user-images.githubusercontent.com/40431403/201485484-560e432e-8dc6-4cc0-9be7-ad23e2b416af.png)
 ![ibm-ai-foundations-for-educators](https://user-images.githubusercontent.com/40431403/201485571-55128a56-afc3-4521-b4fc-620567a9a481.png)
+![z-os-tcp-ip-configuration-with-nca](https://github.com/gangagoura/gangagoura/assets/40431403/1d6021be-2267-4888-9a0c-0536d89c254b)
 ![building-cloud-native-and-multicloud-applications](https://user-images.githubusercontent.com/40431403/201485675-66b65732-5252-4b82-9ead-3d68ff4ec40f.png)
 ![data-science-tools](https://user-images.githubusercontent.com/40431403/201485718-76e85aed-b1fa-416f-b153-3c3cb7118c65.png)
 ![cybersecurity-it-fundamentals-specialization](https://user-images.githubusercontent.com/40431403/201485897-82f2d7a0-8104-4b46-8258-712b99b28961.png)
